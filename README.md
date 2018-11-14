@@ -15,6 +15,11 @@ Working programs are:
 - [K-Nearest Neighbors (Iris data set)](https://github.com/pavanpej/ML-Lab/blob/master/lab9.py) 
 - [Locally Weighted Regression](https://github.com/pavanpej/ML-Lab/blob/master/Prog10.ipynb)
 
-Some use the [Scikit-learn](http://scikit-learn.org/stable/) library.
+
+In case the notebooks aren't rendering on GitHub, use [nbviewer](https://nbviewer.jupyter.org/).
+(Just paste the URL of the notebook from GitHub into URL input bar on their homepage)
+
 ---
 Data sets are included for programs that require them.
+
+Some use the [Scikit-learn](http://scikit-learn.org/stable/) library.
