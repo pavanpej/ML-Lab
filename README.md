@@ -11,7 +11,7 @@ Working programs are:
 - [Naive Bayesian Classifier (for dataset)](https://github.com/pavanpej/ML-Lab/blob/master/Prog5.ipynb)
 - [Naive Bayesian Classifier (for documents)](https://github.com/pavanpej/ML-Lab/blob/master/Prog6.ipynb)
 - [Bayesian Network (using Heart Disease data set)](https://github.com/pavanpej/ML-Lab/blob/master/Prog7.ipynb)
-- [K-Means Clustering (EM Algorithm)](https://github.com/pavanpej/ML-Lab/blob/master/Prog8.ipynb)
+- [K-Means Clustering (EM Algorithm)](https://github.com/pavanpej/ML-Lab/blob/master/Prog8-kmeans.ipynb)
 - [K-Nearest Neighbors (Iris data set)](https://github.com/pavanpej/ML-Lab/blob/master/lab9.py) 
 - [Locally Weighted Regression](https://github.com/pavanpej/ML-Lab/blob/master/Prog10.ipynb)
 
