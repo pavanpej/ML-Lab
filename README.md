@@ -5,7 +5,7 @@ For the 2015 CBCS Scheme, VTU
 Working programs are:
 
 - [FIND-S](https://github.com/pavanpej/ML-Lab/blob/master/pgm1.ipynb)
-- [Candidate Elimination](https://github.com/pavanpej/ML-Lab/blob/master/candidatelimination.ipynb)
+- [Candidate Elimination](https://github.com/pavanpej/ML-Lab/blob/master/pgm2.ipynb)
 - [ID3](https://github.com/pavanpej/ML-Lab/blob/master/labpgm3.ipynb)
 - [Backprop](https://github.com/pavanpej/ML-Lab/blob/master/annBackprop.ipynb)
 - [Naive Bayesian Classifier (for dataset)](https://github.com/pavanpej/ML-Lab/blob/master/Prog5.ipynb)
