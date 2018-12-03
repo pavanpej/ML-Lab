@@ -21,11 +21,18 @@ In case the notebooks aren't rendering on GitHub, use [nbviewer](https://nbviewe
 
 ---
 
-To download the entire notebooks directory, clone the repo using:
+To download the entire notebooks directory, clone the repo.
+
+First, navigate to your desired directory
 
 ```
 cd <your desired directory>
-git clone https://github.com/pavanpej/ML-Lab.git 
+```
+
+then do,
+
+```
+git clone https://github.com/pavanpej/ML-Lab.git
 ```
 
 ---
