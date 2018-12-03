@@ -1,5 +1,5 @@
 # Machine Learning Lab Notebooks
-For the 2015 CBCS Scheme, VTU
+For the 2015 CBCS Scheme, Visvesvaraya Technological University (VTU)
 
 ---
 Working programs are:
@@ -20,6 +20,7 @@ In case the notebooks aren't rendering on GitHub, use [nbviewer](https://nbviewe
 (Just paste the URL of the notebook from GitHub into URL input bar on their homepage)
 
 ---
-Data sets are included for programs that require them.
+Data sets are included for programs that require them in their respective folders.
 
 Some use the [Scikit-learn](http://scikit-learn.org/stable/) library.
+Other documentation is written as part of the notebook.
